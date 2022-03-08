@@ -1,7 +1,8 @@
-### Hello, sou o Daniel Resende 👋
+### Hello, I'm Daniel Resende 👋
 
 
-- 🌱 Eu estou estudando JavaScript, HTML & CSS ...
+- 🌱 I'm studying JavaScript, HTML & CSS ...
+- 📖 I'm studying system analysis and development at Estacio 
 
 <div align="center">
   <a href="https://github.com/danielresende23">
