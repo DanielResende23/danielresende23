@@ -1,5 +1,5 @@
-### Hello, I'm Daniel Resende 👋
-
+## 👋 Hello! Welcome to my Github profile.
+### My name is Daniel REsende
 
 - 🌱 I'm studying JavaScript, HTML & CSS ...
 - 📖 I'm studying system analysis and development at Estacio 
