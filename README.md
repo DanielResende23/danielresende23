@@ -3,9 +3,12 @@
 
 - 🌱 I'm studying JavaScript, HTML & CSS ...
 - 📖 I'm studying system analysis and development at Estacio 
-<h1 align="right">
-  <img alt="mascote" title="#mascote" height="300" width="300" src="./mascote-removebg-preview.png" />
-                                                                  
+ 
+ <div align= "rigth">
+  <img align="rigth"  alt="mascote" title="#mascote" height="200" width="200" src="./mascote-removebg-preview.png">
+ </div>
+
+                                                                
   #
   
 <div align="center">
