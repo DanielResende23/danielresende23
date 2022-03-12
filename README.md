@@ -4,8 +4,8 @@
 - 🌱 I'm studying JavaScript, HTML & CSS ...
 - 📖 I'm studying system analysis and development at Estacio 
 
-<div align= "right">
-  <img align="center" alt="Daniel-Js" height="30" width="40" src="./mascote.png 
+<h1 align="center">
+  <img alt="mascote" title="#mascote" src="./mascote .png" />
                                                                   
   ##
                                                                   
