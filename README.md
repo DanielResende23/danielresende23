@@ -2,13 +2,11 @@
 ### My name is Daniel Resende
 
 - 🌱 I'm studying JavaScript, HTML & CSS ...
+  <img align ="right"  alt="mascote" title="#mascote" height="200" width="200" src="./mascote.png">
 - 📖 I'm studying system analysis and development at Estacio 
 
  
  
- <div align="right">
-     <img  alt="mascote" title="#mascote" height="200" width="200" src="">
-</div>
 
                                                                 
   ##
