@@ -5,7 +5,7 @@
 - 📖 I'm studying system analysis and development at Estacio 
 
 <h1 align="right">
-  <img alt="mascote" title="#mascote" height="300" width="300" src="./mascote.png" />
+  <img alt="mascote" title="#mascote" height="300" width="300" src="./mascote-removebg-preview.png" />
                                                                   
   ##
   
