@@ -4,11 +4,11 @@
 - 🌱 I'm studying JavaScript, HTML & CSS ...
 - 📖 I'm studying system analysis and development at Estacio 
 
-<h1 align="center">
-  <img alt="mascote" title="#mascote" src="./danielresende23/mascote.png" />
+<h1 align="right">
+  <img alt="mascote" title="#mascote" height="300" width="300" src="./mascote.png" />
                                                                   
   ##
-                                                                  
+  
 <div align="center">
   <a href="https://github.com/danielresende23">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=danielresende23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
