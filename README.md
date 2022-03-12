@@ -4,12 +4,11 @@
 - 🌱 I'm studying JavaScript, HTML & CSS ...
 - 📖 I'm studying system analysis and development at Estacio 
  
- <div align= "rigth">
-  <img align="rigth"  alt="mascote" title="#mascote" height="200" width="200" src="./mascote-removebg-preview.png">
- </div>
+  <img align= "right"  alt="mascote" title="#mascote" height="200" width="200" src="./mascote-removebg-preview.png">
+
 
                                                                 
-  #
+  ##
   
 <div align="center">
   <a href="https://github.com/danielresende23">
