@@ -4,8 +4,10 @@
 - 🌱 I'm studying JavaScript, HTML & CSS ...
 - 📖 I'm studying system analysis and development at Estacio 
  
-  <img align= "right"  alt="mascote" title="#mascote" height="200" width="200" src="./mascote-removebg-preview.png">
-
+ 
+ <div align="right">
+     <img  alt="mascote" title="#mascote" height="200" width="200" src="./mascote-removebg-preview.png">
+</div>
 
                                                                 
   ##
@@ -25,7 +27,7 @@
   
   ##
  
-<div align="rigth"> 
+<div align="left"> 
   <a href="https://www.linkedin.com/in/daniel-resend/ "target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
