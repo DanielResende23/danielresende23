@@ -6,7 +6,7 @@
 <h1 align="right">
   <img alt="mascote" title="#mascote" height="300" width="300" src="./mascote-removebg-preview.png" />
                                                                   
-  ##
+  #
   
 <div align="center">
   <a href="https://github.com/danielresende23">
