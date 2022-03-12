@@ -3,7 +3,6 @@
 
 - 🌱 I'm studying JavaScript, HTML & CSS ...
 - 📖 I'm studying system analysis and development at Estacio 
-
 <h1 align="right">
   <img alt="mascote" title="#mascote" height="300" width="300" src="./mascote-removebg-preview.png" />
                                                                   
@@ -16,7 +15,7 @@
 </div>
  
  
-<div align= "right">
+<div align= "left">
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
