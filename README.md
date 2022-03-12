@@ -7,7 +7,7 @@
  
  
  <div align="right">
-     <img  alt="mascote" title="#mascote" height="200" width="200" src="./mascote-removebg-preview.png">
+     <img  alt="mascote" title="#mascote" height="200" width="200" src="">
 </div>
 
                                                                 
