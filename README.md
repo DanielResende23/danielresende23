@@ -6,7 +6,7 @@
 - 📖 I'm studying system analysis and development at Estacio 
 
  
- 
+ <img align="center" alt="Daniel-CSS" height="100" width="150" src="./cat-removebg-preview.png">
 
                                                                 
   ##
