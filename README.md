@@ -1,9 +1,9 @@
 ## 👋 Olá! Bem-vindo ao meu perfil do GitHub.
 ### Eu sou o Daniel Resende.
 
-- 🌱 Estou estudando e aperfeiçoando minhas habilidades de JavaScrip, HTML & CSS, com o objetivo de se tornar um programador Front-end...
+- 🌱 Eu estou estudando e aperfeiçoando minhas habilidades de JavaScrip, HTML & CSS, com o objetivo de se tornar um programador Front-end...
   
-- 📖 Estou no primeiro periodo de Analise e Desenvobimento na faculdade Estacio.
+- 📖 No momento estou no primeiro periodo de Análise e Desenvovimento na faculdade Estácio.
 
  
  <img align="center" alt="Daniel-CSS" height="100" width="150" src="./cat-removebg-preview.png">  
