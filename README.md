@@ -3,10 +3,9 @@
 
 - 🌱 Eu estou estudando e aperfeiçoando minhas habilidades de JavaScrip, HTML & CSS, com o objetivo de se tornar um programador Front-end...
   
-- 📖 No momento estou no 1º período de Análise e Desenvovimento de sistemas na faculdade Estácio.
+- 📖 No momento estou no 3º período de Análise e Desenvovimento de sistemas na faculdade Estácio.
 
  
- <img align="center" alt="Daniel-CSS" height="100" width="150" src="./cat-removebg-preview.png">  
  
   ##
   
