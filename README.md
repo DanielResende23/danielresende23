@@ -15,6 +15,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielresende23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielresende23&layout=compact&langs_count=7&theme=radical"/>
 </div>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=danielresende23&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
   
    ##
   
