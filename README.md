@@ -31,7 +31,7 @@
 />
   
    ##
- ## Skills.
+ ### Skills.
 <div align= "center">
   <img align="center" alt="Daniel-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
