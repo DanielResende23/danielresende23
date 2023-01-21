@@ -1,9 +1,19 @@
 ## 👋 Olá! Bem-vindo ao meu perfil do GitHub.
 ### Eu sou o Daniel Resende.
 
-- 🌱 Eu estou estudando e aperfeiçoando minhas habilidades de JavaScrip, HTML & CSS, com o objetivo de se tornar um programador Front-end...
-  
-- 📖 No momento estou no 3º período de Análise e Desenvovimento de sistemas na faculdade Estácio.
+📖  Estudando: Business Analytics & Big Data Real-Time Analytics com Python e Spark;
+
+📚  Focado em: Análise de dados e ciências de dados;
+
+🗺  Idiomas: Inglês (Intermediário);
+
+🎓  Educação: Cursando no 3° período de análise e desenvolvimento de sistemas na Estácio;
+
+🛠  Construindo a base da minha carreira em T.I;
+
+🖖  Gosto de ficar por dentro das novidades tecnologicas;
+
+🖥  Passatempos: Jogos, Series, Xadrez e livros;
 
  
  
