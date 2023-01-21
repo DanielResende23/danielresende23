@@ -31,7 +31,7 @@
 />
   
    ##
-  
+ ## Skills.
 <div align= "center">
   <img align="center" alt="Daniel-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,6 +44,7 @@
   
   ##
  
+
 <div align="left"> 
   <a href="https://www.linkedin.com/in/daniel-resend/ "target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://danielresende23.github.io/Portfolio/"target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
